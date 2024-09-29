@@ -47,7 +47,7 @@ Use the 1-click deploy to get up and running in seconds.
 
 ### Docker Deploy
 
-There's a multi-arch [`Dockerfile`](https://github.com/Lissy93/cheat-code/blob/master/Dockerfile).
+There's a multi-arch [`Dockerfile`](https://github.com/L-Minus/cheat-code/blob/master/Dockerfile).
 
 ---
 
